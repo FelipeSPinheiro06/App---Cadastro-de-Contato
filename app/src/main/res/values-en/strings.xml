@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckPoint2</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Telephone</string>
+    <string name="email">Email</string>
+    <string name="preferencias">Contact Preference</string>
+    <string name="contatoTelefone">Telephone Contact</string>
+    <string name="contatoEmail">E-mail Contact</string>
+    <string name="cadastrar">Sign up</string>
+</resources>
